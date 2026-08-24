@@ -1,0 +1,6 @@
+{
+  "name": "Việt Nam Travel & Booking - Khám Phá & Đặt Dịch Vụ Du Lịch",
+  "description": "Nền tảng quảng bá du lịch Việt Nam toàn diện: Đặt phòng khách sạn, vé máy bay, thuê xe trực tuyến, bản đồ chỉ đường thông minh và gợi ý địa điểm nổi tiếng theo miền với trợ lý AI.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
